@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nxiea.github.io/IND/sitemap.IND.gz
